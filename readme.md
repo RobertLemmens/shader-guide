@@ -1,7 +1,7 @@
 # Shader guide
 
 ## How to install
-1. Do a recursive clone `git clone --recursive github/RobertLemmens/shader-guide`
+1. Do a recursive clone `git clone --recursive https://github.com/RobertLemmens/shader-guide.git`
 2. Run `build.bat` (windows) or `build.sh` (unix)
 
 Cmake should configure, build and run the application

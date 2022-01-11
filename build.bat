@@ -1,4 +1,4 @@
-if not exist cmake-build-debug mkdir cmake-build-debug
-cmake -Bcmake-build-debug -H.
-cmake --build cmake-build-debug/
-cmake-build-debug\shader_guide.exe
+if not exist cmake-build mkdir cmake-build
+cmake -Bcmake-build -H.
+cmake --build cmake-build/
+cmake-build-debug\Debug\shader_guide.exe
